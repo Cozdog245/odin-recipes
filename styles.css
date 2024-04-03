@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* index.html */
+
+html{
+    background: black;
+}
+
+.title{
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+.list{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.recipie{
+    background: chocolate ;
+    padding: 8px;
+    display: block;
+    text-align: center;
+    list-style-type: none;
+}
+
+.brownie,
+.cheesecake,
+.pasta{
+    color: black ;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
